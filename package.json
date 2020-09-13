@@ -1,0 +1,28 @@
+{
+  "name": "umi-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antd": "^3.13.0",
+    "axios": "^0.18.0",
+    "umi": "^3.2.20",
+    "vue": "^2.6.12",
+    "vue-loader": "^15.9.3",
+    "vue-template-compiler": "^2.6.12",
+    "vuera": "^0.2.7"
+  },
+  "devDependencies": {
+    "@ant-design/compatible": "^1.0.5",
+    "@umijs/preset-react": "^1.6.4",
+    "@vue/component-compiler-utils": "^3.2.0",
+    "ant-design-pro": "^2.3.2",
+    "vue-style-loader": "^4.1.2"
+  }
+}
